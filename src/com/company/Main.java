@@ -23,7 +23,7 @@ public class Main {
                 Method4.inputMoney();
                 break;
             case 3:
-                //ielikt metodi par rēķinu
+                Method5.veiktMaksajumu();
                 break;
             case 4:
                 Method6.bilance(1000000);
